@@ -1,0 +1,18 @@
+@media (min-width: 280px) {
+     *{
+      font-size: 12px;
+   margin-left: 10px;
+   width: auto;
+   height: auto;
+   margin-bottom: 10px;
+
+   
+    }
+    .hero-image{
+      width: auto;
+      height: auto;
+    }
+
+    
+  }
+
